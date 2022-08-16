@@ -1,0 +1,15 @@
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\bin\Debug\net6.0\stringHazırMetotlar.exe
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\bin\Debug\net6.0\stringHazırMetotlar.deps.json
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\bin\Debug\net6.0\stringHazırMetotlar.runtimeconfig.json
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\bin\Debug\net6.0\stringHazırMetotlar.dll
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\bin\Debug\net6.0\stringHazırMetotlar.pdb
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.csproj.AssemblyReference.cache
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.AssemblyInfoInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.AssemblyInfo.cs
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.dll
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\refint\stringHazırMetotlar.dll
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.pdb
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\stringHazırMetotlar.genruntimeconfig.cache
+C:\Users\codingGrounds\Documents\VSCode\stringHazırMetotlar\obj\Debug\net6.0\ref\stringHazırMetotlar.dll
